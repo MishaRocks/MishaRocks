@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 🌱 Skills and stack
 - Languages: Python, SQL
 - Frameworks: Flask, Django
-- Storages: Postgres, SQlite
+- Storages: PostgreSQL, SQlite
 - Soft: Pycharm, Postman, Pgadmin, Ubuntu, Slack
 - Bonus: HYML, CSS, Photoshop, Illustrator
 
