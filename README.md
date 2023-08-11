@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - Language: Python
 - Frameworks: Flask, Django
 - Storages: Postgres, SQlite
-- Bonus: HYML, CSS
+- Soft: Pycharm, Postman, Pgadmin, Ubuntu, Slack
+- Bonus: HYML, CSS, Photoshop, Illustrator
 
 ## 📬Contacts 
 - <a href="https://t.me/misharocks">Telegram</a>
