@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🔭 About
+- My name is Misha
+- I’m currently learning python
+
+## 🌱 Skills and stack
+- Language: Python
+- Frameworks: Flask, Django
+- Storages: Postgres, SQlite
+- Bonus: HYML, CSS
+
+## 📬Contacts 
+<a href="https://t.me/misharocks">Telegram</a>
+<a href="https://www.codewars.com/users/misha.rocks">Сodewars</a>
