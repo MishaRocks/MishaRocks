@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - Bonus: HYML, CSS
 
 ## 📬Contacts 
-<a href="https://t.me/misharocks">Telegram</a>
-<a href="https://www.codewars.com/users/misha.rocks">Сodewars</a>
+- <a href="https://t.me/misharocks">Telegram</a>
+- <a href="https://www.codewars.com/users/misha.rocks">Сodewars</a>
