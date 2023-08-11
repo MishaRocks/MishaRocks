@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - I’m currently learning python
 
 ## 🌱 Skills and stack
-- Language: Python
+- Languages: Python, SQL
 - Frameworks: Flask, Django
 - Storages: Postgres, SQlite
 - Soft: Pycharm, Postman, Pgadmin, Ubuntu, Slack
