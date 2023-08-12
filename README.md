@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - Languages: Python, SQL
 - Frameworks: Flask, Django
 - Storages: PostgreSQL, SQlite
-- Soft: Pycharm, Postman, Pgadmin, Ubuntu, Slack
-- Bonus: HYML, CSS, Photoshop, Illustrator
+- Soft and OS: Pycharm, Postman, Pgadmin, Slack, Ubuntu, Windows, MacOS
+- Bonus: HTML, CSS, Photoshop, Illustrator
 
-## 📬Contacts 
+## 📬Contacts and socials 
 - <a href="https://t.me/misharocks">Telegram</a>
 - <a href="https://www.codewars.com/users/misha.rocks">Сodewars</a>
