@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## 🔭 About
 - My name is Misha
 - I’m currently learning python
-
+-->
 ## 🌱 Skills and stack
 - Languages: Python, SQL
 - Frameworks: Flask, Django, DRF
