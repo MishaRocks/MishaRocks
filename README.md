@@ -1,5 +1,5 @@
 ### Hi 👋
-
+My name is Misha!
 <!--
 **MishaRocks/MishaRocks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 -->
 ## 🌱 Skills and stack
 - Languages: Python, SQL
-- Frameworks: Flask, Django, DRF
+- Frameworks: Flask, Django, DRF, SQLAlchemy
 - Storages: PostgreSQL, SQlite, Redis
-- Soft and OS: Pycharm, Postman, Pgadmin, Ubuntu, Windows, MacOS
+- Soft and OS: Pycharm, Postman, Pgadmin, Docker, Ubuntu, Windows, MacOS
 - Bonus: HTML, CSS, Photoshop, Illustrator, Slack
 
 ## 📬Contacts and socials 
