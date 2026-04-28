@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 -->
 ## 🌱 Skills and stack
 - Languages: Python, SQL
-- Frameworks: Flask, Django, DRF, FastAPI SQLAlchemy
+- Frameworks: Flask, Django, DRF, FastAPI, SQLAlchemy
 - Storages: PostgreSQL, SQlite, Redis
-- Tools: Pycharm, Postman, Pgadmin, Docker, Linux, Windows, MacOS
-- Bonus: HTML, CSS, Photoshop, Illustrator, Slack
+- Tools: Postman, Pgadmin, Docker
+- Bonus: HTML, CSS, Photoshop, Illustrator, Blender, Slack
 
 ## 📬Contacts and socials 
 - <a href="https://t.me/misharocks">Telegram</a>
